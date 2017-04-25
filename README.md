@@ -1,2 +1,2 @@
-# pinkdreams_shop.github.io
+# pinkdreams_shop
 Pinkdreams Shop Online
